@@ -1,5 +1,7 @@
 # deadwoodBoardGame
-Deadwood board game repository
+Deadwood board game made in Java and uses Java Swing for the GUI
+
+Showcases Object Oriented Design practices and documentation.
 
 This Java-based board game can be played by downloading the main zip file with all the code, a readme is attached in there to show you how to play.
 
